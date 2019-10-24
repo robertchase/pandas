@@ -1,0 +1,8 @@
+tmp*
+__pycache__
+.ropeproject
+*.pyc
+.pytest_cache
+.cache
+*.swp
+.DS_Store
