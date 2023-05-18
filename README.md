@@ -10,7 +10,7 @@ Using `jupyter` notebooks makes exploring datasets with `pandas` really nice.
 To set up the environment:
 
 ```
-python3 -m venv env
+python3 -m venv .env
 source setup.sh
 pip install --upgrade pip
 pip install -r requirements.txt
