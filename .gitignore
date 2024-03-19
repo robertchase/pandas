@@ -1,6 +1,6 @@
 mortality/data
 .ipynb_checkpoints
-.env
+.venv
 tmp*
 __pycache__
 *.pyc
